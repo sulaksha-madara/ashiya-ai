@@ -1,0 +1,6 @@
+name = "ashiya-ai"
+main = "src/index.js"
+compatibility_date = "2025-08-31"
+
+[ai]
+binding = "AI"
